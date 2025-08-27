@@ -18,8 +18,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Rajan-Singh-Dev/Leetcode-solution/tree/master/0202-happy-number) |
+| [0290-word-pattern](https://github.com/Rajan-Singh-Dev/Leetcode-solution/tree/master/0290-word-pattern) |
 ## Two Pointers
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Rajan-Singh-Dev/Leetcode-solution/tree/master/0202-happy-number) |
+## String
+|  |
+| ------- |
+| [0290-word-pattern](https://github.com/Rajan-Singh-Dev/Leetcode-solution/tree/master/0290-word-pattern) |
 <!---LeetCode Topics End-->
