@@ -1,24 +1,17 @@
 class Solution {
     public List<Integer> getRow(int rowIndex) {
-        List<List<Integer>> triangle = new ArrayList<>();
-        
-        for(int row=0; row<=rowIndex; row++){
-            List<Integer>currentRow = new ArrayList<>();
-            currentRow.add(1);
+        List<Integer> row = new ArrayList<>();
+        row.add(1);
 
-            for(int col = 1; col<row; col++){
-                int val = triangle.get(row-1).get(col-1) + triangle.get(row - 1).get(col);
-                currentRow.add(val);
+        for(int i=1; i<=rowIndex; i++){
+            //update from right to left to avoide overwriiten value we stille need
+            for(int j=row.size()-1; j>=1; j--){
+                row.set(j, row.get(j)+row.get(j-1));
             }
-
-            if(row>0){
-                currentRow.add(1);
-            }
-            triangle.add(currentRow);
-
+            row.add(1);
         }
 
-        return triangle.get(rowIndex);
+        return row;
         
     }
 }
