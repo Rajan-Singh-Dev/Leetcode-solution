@@ -35,4 +35,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/Rajan-Singh-Dev/Leetcode-solution/tree/master/0175-combine-two-tables) |
+## Array
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/Rajan-Singh-Dev/Leetcode-solution/tree/master/0118-pascals-triangle) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/Rajan-Singh-Dev/Leetcode-solution/tree/master/0118-pascals-triangle) |
 <!---LeetCode Topics End-->
