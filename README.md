@@ -40,9 +40,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0118-pascals-triangle](https://github.com/Rajan-Singh-Dev/Leetcode-solution/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Rajan-Singh-Dev/Leetcode-solution/tree/master/0119-pascals-triangle-ii) |
+| [0414-third-maximum-number](https://github.com/Rajan-Singh-Dev/Leetcode-solution/tree/master/0414-third-maximum-number) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/Rajan-Singh-Dev/Leetcode-solution/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Rajan-Singh-Dev/Leetcode-solution/tree/master/0119-pascals-triangle-ii) |
+## Sorting
+|  |
+| ------- |
+| [0414-third-maximum-number](https://github.com/Rajan-Singh-Dev/Leetcode-solution/tree/master/0414-third-maximum-number) |
 <!---LeetCode Topics End-->
