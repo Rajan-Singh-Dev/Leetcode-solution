@@ -1,21 +1,26 @@
 class Solution {
     public List<Integer> findDisappearedNumbers(int[] nums) {
-        //create a set of number from 1 to size of array
-        Set<Integer> fullset = new HashSet<>();
+        //1. sort the array
+        Arrays.sort(nums);
+
+        List<Integer> missing = new ArrayList<>();
+        int j=0;
+
+        // iterate from 1 to length of array
         for(int i=1; i<=nums.length; i++){
-            fullset.add(i);
-        }
-
-        //Remove all number present in the array
-        for(int arr : nums){
-            fullset.remove(arr);
-        }
-
-        // convert set to sorted list
-        List<Integer> missing = new ArrayList<>(fullset);
-        Collections.sort(missing);
-        return missing;
-
+            //skip duplicate in array
+            while(j<nums.length - 1 && nums[j] == nums[j+1]){
+                j++;
+            }
+            // if array is not exhausted and cuurent array value matches i
+            if(j<nums.length && nums[j] == i){
+                j++;// move to next element in array
+            }else{
+                //i is not found in the array store it in missing
+                missing.add(i);
+            }
         
+        }
+        return missing;
     }
 }
