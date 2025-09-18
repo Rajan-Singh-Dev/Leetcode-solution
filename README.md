@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Rajan-Singh-Dev/Leetcode-solution/tree/master/0202-happy-number) |
+| [0219-contains-duplicate-ii](https://github.com/Rajan-Singh-Dev/Leetcode-solution/tree/master/0219-contains-duplicate-ii) |
 | [0290-word-pattern](https://github.com/Rajan-Singh-Dev/Leetcode-solution/tree/master/0290-word-pattern) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Rajan-Singh-Dev/Leetcode-solution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Two Pointers
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0118-pascals-triangle](https://github.com/Rajan-Singh-Dev/Leetcode-solution/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Rajan-Singh-Dev/Leetcode-solution/tree/master/0119-pascals-triangle-ii) |
+| [0219-contains-duplicate-ii](https://github.com/Rajan-Singh-Dev/Leetcode-solution/tree/master/0219-contains-duplicate-ii) |
 | [0414-third-maximum-number](https://github.com/Rajan-Singh-Dev/Leetcode-solution/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Rajan-Singh-Dev/Leetcode-solution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Dynamic Programming
@@ -52,4 +54,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0414-third-maximum-number](https://github.com/Rajan-Singh-Dev/Leetcode-solution/tree/master/0414-third-maximum-number) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/Rajan-Singh-Dev/Leetcode-solution/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
