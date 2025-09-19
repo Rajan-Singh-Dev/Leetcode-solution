@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Rajan-Singh-Dev/Leetcode-solution/tree/master/0001-two-sum) |
 | [0202-happy-number](https://github.com/Rajan-Singh-Dev/Leetcode-solution/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/Rajan-Singh-Dev/Leetcode-solution/tree/master/0219-contains-duplicate-ii) |
 | [0290-word-pattern](https://github.com/Rajan-Singh-Dev/Leetcode-solution/tree/master/0290-word-pattern) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Rajan-Singh-Dev/Leetcode-solution/tree/master/0001-two-sum) |
 | [0118-pascals-triangle](https://github.com/Rajan-Singh-Dev/Leetcode-solution/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Rajan-Singh-Dev/Leetcode-solution/tree/master/0119-pascals-triangle-ii) |
 | [0219-contains-duplicate-ii](https://github.com/Rajan-Singh-Dev/Leetcode-solution/tree/master/0219-contains-duplicate-ii) |
