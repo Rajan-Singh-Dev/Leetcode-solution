@@ -21,11 +21,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Rajan-Singh-Dev/Leetcode-solution/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/Rajan-Singh-Dev/Leetcode-solution/tree/master/0219-contains-duplicate-ii) |
 | [0290-word-pattern](https://github.com/Rajan-Singh-Dev/Leetcode-solution/tree/master/0290-word-pattern) |
+| [0349-intersection-of-two-arrays](https://github.com/Rajan-Singh-Dev/Leetcode-solution/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Rajan-Singh-Dev/Leetcode-solution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Two Pointers
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Rajan-Singh-Dev/Leetcode-solution/tree/master/0202-happy-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Rajan-Singh-Dev/Leetcode-solution/tree/master/0349-intersection-of-two-arrays) |
 | [3973-flip-square-submatrix-vertically](https://github.com/Rajan-Singh-Dev/Leetcode-solution/tree/master/3973-flip-square-submatrix-vertically) |
 ## String
 |  |
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Rajan-Singh-Dev/Leetcode-solution/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Rajan-Singh-Dev/Leetcode-solution/tree/master/0119-pascals-triangle-ii) |
 | [0219-contains-duplicate-ii](https://github.com/Rajan-Singh-Dev/Leetcode-solution/tree/master/0219-contains-duplicate-ii) |
+| [0349-intersection-of-two-arrays](https://github.com/Rajan-Singh-Dev/Leetcode-solution/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Rajan-Singh-Dev/Leetcode-solution/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Rajan-Singh-Dev/Leetcode-solution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Rajan-Singh-Dev/Leetcode-solution/tree/master/0485-max-consecutive-ones) |
@@ -58,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/Rajan-Singh-Dev/Leetcode-solution/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Rajan-Singh-Dev/Leetcode-solution/tree/master/0414-third-maximum-number) |
 ## Sliding Window
 |  |
@@ -67,4 +71,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3973-flip-square-submatrix-vertically](https://github.com/Rajan-Singh-Dev/Leetcode-solution/tree/master/3973-flip-square-submatrix-vertically) |
+## Binary Search
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/Rajan-Singh-Dev/Leetcode-solution/tree/master/0349-intersection-of-two-arrays) |
 <!---LeetCode Topics End-->
