@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Rajan-Singh-Dev/Leetcode-solution/tree/master/0219-contains-duplicate-ii) |
 | [0414-third-maximum-number](https://github.com/Rajan-Singh-Dev/Leetcode-solution/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Rajan-Singh-Dev/Leetcode-solution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0485-max-consecutive-ones](https://github.com/Rajan-Singh-Dev/Leetcode-solution/tree/master/0485-max-consecutive-ones) |
 | [3973-flip-square-submatrix-vertically](https://github.com/Rajan-Singh-Dev/Leetcode-solution/tree/master/3973-flip-square-submatrix-vertically) |
 ## Dynamic Programming
 |  |
