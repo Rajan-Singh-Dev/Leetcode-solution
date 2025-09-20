@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Rajan-Singh-Dev/Leetcode-solution/tree/master/0001-two-sum) |
+| [0141-linked-list-cycle](https://github.com/Rajan-Singh-Dev/Leetcode-solution/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/Rajan-Singh-Dev/Leetcode-solution/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/Rajan-Singh-Dev/Leetcode-solution/tree/master/0219-contains-duplicate-ii) |
 | [0290-word-pattern](https://github.com/Rajan-Singh-Dev/Leetcode-solution/tree/master/0290-word-pattern) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/Rajan-Singh-Dev/Leetcode-solution/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/Rajan-Singh-Dev/Leetcode-solution/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Rajan-Singh-Dev/Leetcode-solution/tree/master/0349-intersection-of-two-arrays) |
 | [3973-flip-square-submatrix-vertically](https://github.com/Rajan-Singh-Dev/Leetcode-solution/tree/master/3973-flip-square-submatrix-vertically) |
@@ -37,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Rajan-Singh-Dev/Leetcode-solution/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0141-linked-list-cycle](https://github.com/Rajan-Singh-Dev/Leetcode-solution/tree/master/0141-linked-list-cycle) |
 ## Database
 |  |
 | ------- |
