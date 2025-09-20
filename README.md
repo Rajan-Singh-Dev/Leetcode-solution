@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Rajan-Singh-Dev/Leetcode-solution/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Rajan-Singh-Dev/Leetcode-solution/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rajan-Singh-Dev/Leetcode-solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/Rajan-Singh-Dev/Leetcode-solution/tree/master/0136-single-number) |
 | [0219-contains-duplicate-ii](https://github.com/Rajan-Singh-Dev/Leetcode-solution/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/Rajan-Singh-Dev/Leetcode-solution/tree/master/0228-summary-ranges) |
 | [0349-intersection-of-two-arrays](https://github.com/Rajan-Singh-Dev/Leetcode-solution/tree/master/0349-intersection-of-two-arrays) |
@@ -78,4 +79,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Rajan-Singh-Dev/Leetcode-solution/tree/master/0349-intersection-of-two-arrays) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/Rajan-Singh-Dev/Leetcode-solution/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
