@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0202-happy-number](https://github.com/Rajan-Singh-Dev/Leetcode-solution/tree/master/0202-happy-number) |
 | [0292-nim-game](https://github.com/Rajan-Singh-Dev/Leetcode-solution/tree/master/0292-nim-game) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Rajan-Singh-Dev/Leetcode-solution/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Brainteaser
 |  |
 | ------- |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/Rajan-Singh-Dev/Leetcode-solution/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [1975-minimum-distance-to-the-target-element](https://github.com/Rajan-Singh-Dev/Leetcode-solution/tree/master/1975-minimum-distance-to-the-target-element) |
 | [1983-maximum-population-year](https://github.com/Rajan-Singh-Dev/Leetcode-solution/tree/master/1983-maximum-population-year) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Rajan-Singh-Dev/Leetcode-solution/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [3973-flip-square-submatrix-vertically](https://github.com/Rajan-Singh-Dev/Leetcode-solution/tree/master/3973-flip-square-submatrix-vertically) |
 ## Dynamic Programming
 |  |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/Rajan-Singh-Dev/Leetcode-solution/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Rajan-Singh-Dev/Leetcode-solution/tree/master/0137-single-number-ii) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Rajan-Singh-Dev/Leetcode-solution/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Greedy
 |  |
 | ------- |
@@ -110,4 +113,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1983-maximum-population-year](https://github.com/Rajan-Singh-Dev/Leetcode-solution/tree/master/1983-maximum-population-year) |
+## Backtracking
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Rajan-Singh-Dev/Leetcode-solution/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Combinatorics
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Rajan-Singh-Dev/Leetcode-solution/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Enumeration
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Rajan-Singh-Dev/Leetcode-solution/tree/master/1993-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
